@@ -1,0 +1,2 @@
+"color2.py" contains the code that recognizes red and green colors and output a binary matrix.
+"path2.c" contains the A* path planning algorithm developed. Inputting the binary matrix and outputting the appropriate path coordinates.
