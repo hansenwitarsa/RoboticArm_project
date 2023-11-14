@@ -12,3 +12,4 @@ The flow of the project:
 - There is a gripper attached to the endpoint that can be controlled to open or close to grab the object. (When practicing the project, the gripper worked, but at demonstration time, the gripper has mechanical problem, so it could not move).
 
 A summary of the project can be found in the preprint folder.
+Demonstration can be found in the presentation folder.
