@@ -10,3 +10,5 @@ The flow of the project:
 - Then, I developed an A* path planning algorithm in C++ (script folder). The input is 3x4 matrix with binary numbers. And the output is the path containing coordinates from (0,0) to (2,3). (I consider the starting square as (0,0) and the goal square as (2,3)).
 - The path coordinates are then inputted to another code in C++ inside the software and the output is the real world coordinates where the robotic arm endpoint has to move. (Unfortunately, I cannot recover the codes inside the software).
 - There is a gripper attached to the endpoint that can be controlled to open or close to grab the object. (When practicing the project, the gripper worked, but at demonstration time, the gripper has mechanical problem, so it could not move).
+
+A summary of the project can be found in the preprint folder.
